@@ -29,7 +29,7 @@ Javascript, HTML, CSS, Bootstrap_5, JS_HandleBars ...
 
  - [**Weather App**](https://github.com/sayshark55/Weather-App-Dynamic)
  *Based on API of WeatherAPI.com with the help of ExpressJS and HandleBars*
- - [**Quotes App**](https://github.com/matiassingers/awesome-readme)
+ - [**Quotes App**](https://github.com/sayshark55/QuotesApp)
  *Based on type.fit API & Twitter API with the Help of Pure HTML, CSS and JavaScript*
 ## Support
 
