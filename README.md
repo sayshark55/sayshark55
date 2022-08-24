@@ -1,16 +1,11 @@
 
 #  Hi, I'm Sayyed Sharuk! 👋
 
-
 ## Full Stack Web Developer 
 
 I Am a Full Stack Web Developer Having Experience of 
 
-
-
-
-![Logo](https://miro.medium.com/max/1400/1*k0SazfSJ-tPSBbt2WDYIyw.png)
-
+![km_20220824_480p](https://user-images.githubusercontent.com/32270549/186342126-de0e2009-639d-4e22-a4aa-ea89067757db.gif)
 
 ##  Skills
 Javascript, HTML, CSS, Bootstrap_5, JS_HandleBars ...
